@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_aes.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_des.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_md5.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_resetpassword.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/layout/activity_rs.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/amars/Desktop/CryptoKing/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_aes.xml" value="0.25" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_des.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_md5.xml" value="0.12335359675785208" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_resetpassword.xml" value="0.1" />
+        <entry key="..\:/Users/amars/Desktop/SecureMessenger/app/src/main/res/layout/activity_rs.xml" value="0.12335359675785208" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
