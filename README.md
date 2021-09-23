@@ -18,7 +18,7 @@ This project is aimed to develop a cryptography based Android Application to for
 ### Project demo
 <br>
 
-![cryptogif](https://user-images.githubusercontent.com/78313098/132590532-ffc16b70-dcc8-435d-b5e4-01e0b00b6649.gif)
+![cryptoking](https://user-images.githubusercontent.com/78313098/134533717-5e56367d-b68d-43f2-bc0c-bc972f889867.gif)
 
 <br>
 In cryptography, encryption is the process of transforming information (referred to as plaintext) using an algorithm (called cipher) to make it unreadable to anyone except those possessing special knowledge, usually referred to as a key. The result of the process is encrypted information (in cryptography, referred to as ciphertext). In many contexts, the word encryption also implicitly refers to the reverse process, decryption (e.g. “software for encryption” can typically also perform decryption), to make the encrypted information readable again (i.e. to make it unencrypted).
