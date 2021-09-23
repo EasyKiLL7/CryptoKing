@@ -66,7 +66,7 @@
         android:id="@+id/output_text"
         android:layout_marginLeft="20dp"
         android:layout_marginRight="20dp"
-        android:background="#82B1FF"
+        android:background="#FFCDD2"
         />
 
 </LinearLayout>

@@ -11,7 +11,7 @@
     app:layout_constraintTop_toTopOf="parent"
     tools:context="com.example.amars.cryptoking.MainActivity"
     android:orientation="vertical"
-    android:background="#00BFA5"
+    android:background="@drawable/backimage"
 
     >
 

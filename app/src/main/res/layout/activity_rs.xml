@@ -116,7 +116,7 @@
             android:layout_marginLeft="13dp"
             android:layout_marginRight="13dp"
             android:textIsSelectable="true"
-            android:background="#82B1FF"
+            android:background="#FFCDD2"
             />
 
     </LinearLayout>
